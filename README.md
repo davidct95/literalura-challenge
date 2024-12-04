@@ -1,4 +1,9 @@
-# Literalura - Gestión de Libros y Autores
+<h1 align="center">Literalura - Gestión de Libros y Autores</h1>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/48a7580d-af16-4f3a-8016-1c8285e1a700" alt="badge literalura">
+</div>
+
 
 Literalura es una aplicación desarrollada en **Java con Spring Boot** para gestionar información sobre libros y autores. También permite consumir datos de la API de Gutendex para buscar y registrar libros y autores en la base de datos.
 
